@@ -1,0 +1,15 @@
+
+.click,
+.click_two {
+    font-size: 28px;
+    font-family:Helvetica, Times New Roman, sans-serif;
+}
+
+.click {
+    background-color: black;
+    color: white;
+}
+
+.click_two {
+    background-color: yellow;
+}
